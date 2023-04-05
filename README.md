@@ -2,8 +2,8 @@
 
 ###Návod:
 
-Nainstalujeme react
-Nainstalujeme Blueprint UI: npm install @blueprintjs/core
-Vložíme soubor App.js
-Spustíme
+Nainstalujeme react</br>
+Nainstalujeme Blueprint UI: npm install @blueprintjs/core</br>
+Vložíme soubor App.js</br>
+Spustíme</br>
 Done
